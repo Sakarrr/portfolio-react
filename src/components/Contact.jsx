@@ -1,5 +1,11 @@
+import NavBar from "./NavBar";
+
 const Contact = () => {
-  return <>This is Contacts Page!</>;
+  return (
+    <>
+      <NavBar />
+    </>
+  );
 };
 
 export default Contact;
